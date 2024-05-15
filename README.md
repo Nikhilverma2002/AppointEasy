@@ -22,9 +22,7 @@ To get started with AppointEasy, follow these steps:
 4. Doctor Dashboard: Doctors can log in to view and manage their appointments through the dashboard.
 
 ##Screenshots
- 
-![IMG-20240515-WA0019](https://github.com/Nikhilverma2002/AppointEasy/assets/90974648/fcd6a619-3b15-4bf4-a54b-feea7fa26d29)  ![IMG-20240515-WA0018](https://github.com/Nikhilverma2002/AppointEasy/assets/90974648/eef9b906-d453-4677-8508-5087c2468b96)
-![IMG-20240515-WA0017](https://github.com/Nikhilverma2002/AppointEasy/assets/90974648/f33ec7cb-52d9-4e78-81a6-17e862409895)  ![IMG-20240515-WA0016](https://github.com/Nikhilverma2002/AppointEasy/assets/90974648/d866dc89-cbe6-4b7e-ba07-6738c96dd542)
+![](https://github.com/Nikhilverma2002/AppointEasy/assets/90974648/cdf70a38-f943-4a91-8217-ebdd34f2a703)
 
 
 
