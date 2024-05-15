@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppointEasy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="know_more">Know more</string>
+    <string name="fetching_enquiries">Fetching Enquiries</string>
+    <string name="search_here">Search here</string>
+    <string name="make_a_visit">Make a Visit</string>
+    <string name="choose_your_date">Choose your date</string>
+    <string name="date_wise_enquiries">Date Appointments</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_education">Enter your education</string>
+    <string name="_10_yr_experience">10+ yr experience</string>
+    <string name="enter_checkup_charges">Enter checkup charges</string>
+    <string name="enter_latitude_longitude">Enter Latitude,longitude</string>
+    <string name="enter_contact_number">Enter Contact number</string>
+    <string name="write_some_description">Write some description</string>
+    <string name="total_appointments">All Appointments</string>
+    <string name="bilaspur">Bilaspur</string>
+    <string name="your_appointments">Your Appointments</string>
+</resources>

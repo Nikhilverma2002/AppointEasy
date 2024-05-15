@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451517379538",
+    "firebase_url": "https://appointeasy-1a322-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appointeasy-1a322",
+    "storage_bucket": "appointeasy-1a322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451517379538:android:f9f6d0447ca822e18d8e0b",
+        "android_client_info": {
+          "package_name": "com.nikhil.appointeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451517379538-jv31c37e0fsqf2ee74u34gv8aau2881o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhil.appointeasy",
+            "certificate_hash": "47029b032ceecee323101c5ed2faed80c6c8f71b"
+          }
+        },
+        {
+          "client_id": "451517379538-gsufgco8b2d3cmm6gl5itbsj1nrdaklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCrZ2Dzy22VVxTALAQ0BgCqHCzrOO2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451517379538-gsufgco8b2d3cmm6gl5itbsj1nrdaklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
